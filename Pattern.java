@@ -6,7 +6,7 @@ public class Pattern {
     // Function to demonstrate pattern
     public static void printPattern(int n)
     {
-        int i, j;
+        int i, j; 
         // outer loop to handle number of rows
         for (i = 0; i < n; i++) {
             //  inner loop to handle number of columns
